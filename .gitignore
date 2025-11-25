@@ -1,6 +1,7 @@
 #The Environment
 .venv/
 __pycache__/
+.vscode/
 
 #The Data
 data/raw/
