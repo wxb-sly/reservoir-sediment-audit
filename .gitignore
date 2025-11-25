@@ -12,3 +12,4 @@ data/processed/
 
 #Exceptions
 !data/reports/
+!requirements.txt
