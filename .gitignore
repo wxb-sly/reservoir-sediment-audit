@@ -1,1 +1,14 @@
+#The Environment
 .venv/
+__pycache__/
+
+#The Data
+data/raw/
+data/processed/
+*.db
+*.csv
+*.txt
+*.xlsx
+
+#Exceptions
+!data/reports/
